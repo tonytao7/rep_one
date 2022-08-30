@@ -37,7 +37,7 @@
     "he": "^1.2.0",
     "mathjs": "^6.2.3",
     "ml-matrix": "^6.4.1",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^3.3.3",
     "tz-lookup": "^6.1.24"
   },
